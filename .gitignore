@@ -1,0 +1,7 @@
+/app/config/config.ini
+/app/security/*
+/app/cache/*
+*~
+.DS_Store
+*.php~
+.idea/*

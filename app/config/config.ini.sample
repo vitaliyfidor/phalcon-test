@@ -1,0 +1,16 @@
+[database]
+adapter  = Mysql
+host     = localhost
+username = username
+password = password
+dbname   = database_name
+charset  = utf8
+
+[application]
+controllersDir = app/controllers/
+modelsDir      = app/models/
+viewsDir       = app/views/
+cacheDir       = app/cache/
+pluginsDir     = app/plugins/
+formsDir       = app/forms/
+baseUri        = /
